@@ -10,4 +10,6 @@ public class TestRebase {
     private int d;
 
     private int e;
+
+    private int f;
 }
