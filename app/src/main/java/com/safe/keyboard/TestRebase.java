@@ -18,4 +18,6 @@ public class TestRebase {
     private int h;
 
     private int i;
+
+    private int j;
 }
