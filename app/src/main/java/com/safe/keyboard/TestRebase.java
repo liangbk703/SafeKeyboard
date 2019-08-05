@@ -8,4 +8,6 @@ public class TestRebase {
     private int c;
 
     private int d;
+
+    private int e;
 }
