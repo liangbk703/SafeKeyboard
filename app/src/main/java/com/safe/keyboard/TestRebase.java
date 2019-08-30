@@ -24,4 +24,6 @@ public class TestRebase {
     private int k;
 
     private int l;
+
+    private int m;
 }
