@@ -4,4 +4,5 @@ public class TestRebaseB {
     private int b1;
     private int b2;//使用edit
     private int b3;
+    private int b4;
 }
